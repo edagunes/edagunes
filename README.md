@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-- 🌱 I’m currently learning Java and NoSQL-MongoDB
-- 💻 Skills: C# / HTML / CSS / React.js / PostgreSQL
+- 🌱 I’m currently learning Spring Boot and React
+- 💻 Skills: Java / PostgreSQL
 - 📫 How to reach me: **gunnes.eda@gmail.com**
 
 ### Connect with me
