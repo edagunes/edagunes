@@ -1,6 +1,6 @@
 # Hello World, I'm Eda👋
 
-I live in İzmir, Turkey. I am a student of Computer Engineering at Ege University.
+I live in İzmir, Turkey. I am currently working at Yapı Kredi Teknoloji.
 <!--
 **edagunes/edagunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
